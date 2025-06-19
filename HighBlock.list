@@ -1,24 +1,47 @@
-# --- 公民媒体 / 言论社区
+# === 公民媒体 / 言论社区
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,matters.news
-DOMAIN-SUFFIX,theinitium.com
-DOMAIN-SUFFIX,chinadigitaltimes.net
-DOMAIN-SUFFIX,rfa.org
-DOMAIN-SUFFIX,cpj.org
-DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,hkfp.com
+DOMAIN-SUFFIX,wainao.me
+
+# === 国际主流媒体 / 通讯社
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,hkfp.com
-DOMAIN-SUFFIX,inmediahk.net
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,voanews.com
+DOMAIN-SUFFIX,voachinese.com
+
+# === 人权与 NGO 组织
+DOMAIN-SUFFIX,hrw.org
+DOMAIN-SUFFIX,amnesty.org
+DOMAIN-SUFFIX,freedomhouse.org
+DOMAIN-SUFFIX,rsf.org
+DOMAIN-SUFFIX,hrichina.org
+DOMAIN-SUFFIX,chinachange.org
+DOMAIN-SUFFIX,chrdnet.org
+DOMAIN-SUFFIX,cpj.org
+
+# === 流亡 / 异议中文媒体
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,ntdtv.com
-DOMAIN-SUFFIX,wainao.me
+
+# === 藏疆台港相关组织 / 媒体
+DOMAIN-SUFFIX,inmediahk.net
+DOMAIN-SUFFIX,tibet.net
+DOMAIN-SUFFIX,tchrd.org
+
+# === 宗教与法轮功相关
+DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,falundafa.org
+DOMAIN-SUFFIX,zhengjian.org
+DOMAIN-SUFFIX,renminbao.com
 
 # --- 备用镜像 & CDN
 DOMAIN,raw.githubusercontent.com
