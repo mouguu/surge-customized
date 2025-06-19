@@ -5,15 +5,6 @@ DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,hkfp.com
 DOMAIN-SUFFIX,wainao.me
 
-# === 国际主流媒体 / 通讯社
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,wsj.com
-DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,dw.com
-DOMAIN-SUFFIX,voanews.com
-DOMAIN-SUFFIX,voachinese.com
-
 # === 人权与 NGO 组织
 DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,amnesty.org
