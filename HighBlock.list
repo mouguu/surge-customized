@@ -43,6 +43,24 @@ DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,renminbao.com
 
+# === 加密货币 / 金融
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+
+# === 反审查技术 / 安全工具
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,psiphon.ca
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,shadowsocks.org
+
 # --- 备用镜像 & CDN
 DOMAIN,raw.githubusercontent.com
 DOMAIN-SUFFIX,gitlab.com
