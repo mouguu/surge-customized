@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,coinmarketcap.com
 # === 云服务
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,cloud.oracle.com
 DOMAIN-SUFFIX,yum-eu-amsterdam-1.oracle.com
 DOMAIN-SUFFIX,yum-ap-sydney-1.oracle.com
 DOMAIN-SUFFIX,yum-ca-toronto-1.oracle.com
