@@ -44,6 +44,24 @@ DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
 
+# === 云服务
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,yum-eu-amsterdam-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-sydney-1.oracle.com
+DOMAIN-SUFFIX,yum-ca-toronto-1.oracle.com
+DOMAIN-SUFFIX,yum-eu-frankfurt-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-mumbai-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-osaka-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-tokyo-1.oracle.com
+DOMAIN-SUFFIX,yum-me-jeddah-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-melbourne-1.oracle.com
+DOMAIN-SUFFIX,yum-ap-seoul-1.oracle.com
+DOMAIN-SUFFIX,yum-uk-london-1.oracle.com
+DOMAIN-SUFFIX,yum-us-ashburn-1.oracle.com
+DOMAIN-SUFFIX,yum-us-phoenix-1.oracle.com
+
+
 # === 反审查技术 / 安全工具
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,greatfire.org
